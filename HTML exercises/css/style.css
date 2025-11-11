@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: aquamarine;
+}
+header {
+    background-color: lightblue;
+    padding: 20px;
+    text-align: center;
+}
+nav {
+    margin: 10px;
+}
+a {
+    text-decoration: none;
+    color: darkblue;
+    margin: 0 10px;
+}
+.container {
+    color: rgb(rgb(160, 88, 88), rgb(66, 177, 66), rgb(63, 63, 172));
+    width: 80%;
+    margin: auto;
+}
