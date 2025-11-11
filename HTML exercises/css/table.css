@@ -9,6 +9,7 @@ table, th, td {
     /* border: 1px dashed #bba7a7; */
 
     border: 1px solid #2b0808;
+    position: relative;
     /* padding: 15px;
      text-align: left; 
     padding-top: 10px;
