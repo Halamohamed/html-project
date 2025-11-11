@@ -1,12 +1,20 @@
 table {
     border-collapse: collapse;
+    border: 1px solid #1b0505;
     width: 100%;
     margin-top: 20px;
+    border-spacing: 30px;
 }
 th, td {
-    border: 1px dashed #ddd;
+    border: 1px dashed #bba7a7;
+
+    border: 1px solid #2b0808;
     padding: 10px;
     text-align: left;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
 }
 th {
     background-color: #000000;
